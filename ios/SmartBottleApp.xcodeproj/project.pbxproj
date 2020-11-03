@@ -9,17 +9,37 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* SmartBottleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SmartBottleAppTests.m */; };
 		021C5BD6025F28C1F6B29EA5 /* libPods-SmartBottleApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 70C7D4C89E15122A190F5EEC /* libPods-SmartBottleApp.a */; };
+		083A16C4F76747C8AE2A6CFA /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37A23477507F4A1BB3B72655 /* EvilIcons.ttf */; };
+		093FBDEC941944EBA52B1073 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 014559DB17FD457EA6830A8D /* AntDesign.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1D2FBB655937422E88F0FF3E /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ECAFD24AC23D491DA55B554B /* FontAwesome5_Brands.ttf */; };
 		2636274706BC72B1942DE3FE /* libPods-SmartBottleApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F834B0EB2F435FF4026023A /* libPods-SmartBottleApp-tvOS.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* SmartBottleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SmartBottleAppTests.m */; };
+		3CE77C1B4AFB49B380159550 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5663608021534505A9B78998 /* MaterialCommunityIcons.ttf */; };
+		4701425508C34CEE82E9FEC1 /* rubicon-icon-font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D472BAEEC6E045A5B5170FB3 /* rubicon-icon-font.ttf */; };
+		487CAB2525517D91008B6CDB /* Bluetooth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 487CAB2425517D91008B6CDB /* Bluetooth.swift */; };
+		6CF723295DDB4C14BF6241BC /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 969B0C1E543841E090742E25 /* Foundation.ttf */; };
+		6D4FBB0FD10448B4AB49BBF3 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B7779905A6146EAA73A5D09 /* FontAwesome5_Solid.ttf */; };
 		80AF063F020275D74215B391 /* libPods-SmartBottleApp-SmartBottleAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8402C14F31F85B012C706F1F /* libPods-SmartBottleApp-SmartBottleAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		87E24E44A6814979BB70C57D /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23D5F3AA034046DC8A2DF397 /* Octicons.ttf */; };
+		98D54C40110B4518BD5140D2 /* Roboto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C4B605E52634F6D884D5022 /* Roboto.ttf */; };
+		9C37F161F80345F6AF7A691E /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A244783A90634DC0928DCAAC /* Ionicons.ttf */; };
+		A68E222B508E4F77864598AC /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4AF6B427A1684B92B0AF0BC0 /* SimpleLineIcons.ttf */; };
+		A714527771CE4B6192767B42 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 42B484C23EFC4DEBBF2C16C4 /* Fontisto.ttf */; };
+		A92C404412914E01B77C5E5E /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 997C0BCBDB6A46CF816C64ED /* MaterialIcons.ttf */; };
+		AF47913DF68B4CA7AA32E8BD /* Roboto_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A9B6FD286554CC1A6453D01 /* Roboto_medium.ttf */; };
+		C5CC403CD2A84CCAB2DB68F0 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5B2E0BCC56F34219A6B62691 /* Entypo.ttf */; };
 		D32901378211C9208DB581BD /* libPods-SmartBottleApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 682D7B7711C4AA333CF36EC1 /* libPods-SmartBottleApp-tvOSTests.a */; };
+		DAA7AA97A21A406D91C4776B /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7A12B64C99334A1FB28B0183 /* Feather.ttf */; };
+		DADC37B9F889416BACD70187 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D07A770DD86D4559A62AAD8E /* Zocial.ttf */; };
+		DEDDEEBEF01E41A3BB974EA2 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4ADDB859039F43359D2E8957 /* FontAwesome5_Regular.ttf */; };
+		FC0B2F3028AD48729334E45F /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2289E01D0EB465FAEF914CE /* FontAwesome.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +64,8 @@
 		00E356EE1AD99517003FC87E /* SmartBottleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartBottleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* SmartBottleAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SmartBottleAppTests.m; sourceTree = "<group>"; };
+		014559DB17FD457EA6830A8D /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		0A9B6FD286554CC1A6453D01 /* Roboto_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto_medium.ttf; path = "../node_modules/native-base/Fonts/Roboto_medium.ttf"; sourceTree = "<group>"; };
 		0D834014A2256E495E297D5E /* Pods-SmartBottleApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp-tvOSTests/Pods-SmartBottleApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* SmartBottleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartBottleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SmartBottleApp/AppDelegate.h; sourceTree = "<group>"; };
@@ -52,18 +74,37 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SmartBottleApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SmartBottleApp/main.m; sourceTree = "<group>"; };
 		1F834B0EB2F435FF4026023A /* libPods-SmartBottleApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartBottleApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		23D5F3AA034046DC8A2DF397 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* SmartBottleApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SmartBottleApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* SmartBottleApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SmartBottleApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37A23477507F4A1BB3B72655 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		3C4B605E52634F6D884D5022 /* Roboto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto.ttf; path = "../node_modules/native-base/Fonts/Roboto.ttf"; sourceTree = "<group>"; };
 		41593D228DD82BC0A138D12D /* Pods-SmartBottleApp-SmartBottleAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp-SmartBottleAppTests.debug.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp-SmartBottleAppTests/Pods-SmartBottleApp-SmartBottleAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		42B484C23EFC4DEBBF2C16C4 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/native-base/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		487CAB2325517D91008B6CDB /* SmartBottleApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SmartBottleApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		487CAB2425517D91008B6CDB /* Bluetooth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bluetooth.swift; sourceTree = "<group>"; };
+		4ADDB859039F43359D2E8957 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		4AF6B427A1684B92B0AF0BC0 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/native-base/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		5663608021534505A9B78998 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		5B2E0BCC56F34219A6B62691 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		682D7B7711C4AA333CF36EC1 /* libPods-SmartBottleApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartBottleApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70C7D4C89E15122A190F5EEC /* libPods-SmartBottleApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartBottleApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A12B64C99334A1FB28B0183 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/native-base/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SmartBottleApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8402C14F31F85B012C706F1F /* libPods-SmartBottleApp-SmartBottleAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartBottleApp-SmartBottleAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B7779905A6146EAA73A5D09 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		902B30C9FFEB6E74A64E2FE4 /* Pods-SmartBottleApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp-tvOS/Pods-SmartBottleApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		969B0C1E543841E090742E25 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/native-base/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		997C0BCBDB6A46CF816C64ED /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		99D50962B82D6E1E6A652768 /* Pods-SmartBottleApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp.debug.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp/Pods-SmartBottleApp.debug.xcconfig"; sourceTree = "<group>"; };
 		A1D0E2DFF011638990F5F45A /* Pods-SmartBottleApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp.release.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp/Pods-SmartBottleApp.release.xcconfig"; sourceTree = "<group>"; };
+		A2289E01D0EB465FAEF914CE /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/native-base/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		A244783A90634DC0928DCAAC /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/native-base/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		D07A770DD86D4559A62AAD8E /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		D472BAEEC6E045A5B5170FB3 /* rubicon-icon-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "rubicon-icon-font.ttf"; path = "../node_modules/native-base/Fonts/rubicon-icon-font.ttf"; sourceTree = "<group>"; };
 		D67B133755975AEBF74F3342 /* Pods-SmartBottleApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp-tvOSTests/Pods-SmartBottleApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E56AB76B9996483A1139F974 /* Pods-SmartBottleApp-SmartBottleAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp-SmartBottleAppTests.release.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp-SmartBottleAppTests/Pods-SmartBottleApp-SmartBottleAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		ECAFD24AC23D491DA55B554B /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F698B9CCC5274A439DAD14A0 /* Pods-SmartBottleApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartBottleApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-SmartBottleApp-tvOS/Pods-SmartBottleApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
@@ -122,6 +163,32 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		0248DFE565864E3082E478B5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				014559DB17FD457EA6830A8D /* AntDesign.ttf */,
+				5B2E0BCC56F34219A6B62691 /* Entypo.ttf */,
+				37A23477507F4A1BB3B72655 /* EvilIcons.ttf */,
+				7A12B64C99334A1FB28B0183 /* Feather.ttf */,
+				A2289E01D0EB465FAEF914CE /* FontAwesome.ttf */,
+				ECAFD24AC23D491DA55B554B /* FontAwesome5_Brands.ttf */,
+				4ADDB859039F43359D2E8957 /* FontAwesome5_Regular.ttf */,
+				8B7779905A6146EAA73A5D09 /* FontAwesome5_Solid.ttf */,
+				42B484C23EFC4DEBBF2C16C4 /* Fontisto.ttf */,
+				969B0C1E543841E090742E25 /* Foundation.ttf */,
+				A244783A90634DC0928DCAAC /* Ionicons.ttf */,
+				5663608021534505A9B78998 /* MaterialCommunityIcons.ttf */,
+				997C0BCBDB6A46CF816C64ED /* MaterialIcons.ttf */,
+				23D5F3AA034046DC8A2DF397 /* Octicons.ttf */,
+				0A9B6FD286554CC1A6453D01 /* Roboto_medium.ttf */,
+				3C4B605E52634F6D884D5022 /* Roboto.ttf */,
+				D472BAEEC6E045A5B5170FB3 /* rubicon-icon-font.ttf */,
+				4AF6B427A1684B92B0AF0BC0 /* SimpleLineIcons.ttf */,
+				D07A770DD86D4559A62AAD8E /* Zocial.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		13B07FAE1A68108700A75B9A /* SmartBottleApp */ = {
 			isa = PBXGroup;
 			children = (
@@ -161,7 +228,6 @@
 				D67B133755975AEBF74F3342 /* Pods-SmartBottleApp-tvOSTests.debug.xcconfig */,
 				0D834014A2256E495E297D5E /* Pods-SmartBottleApp-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -175,12 +241,15 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				487CAB2425517D91008B6CDB /* Bluetooth.swift */,
 				13B07FAE1A68108700A75B9A /* SmartBottleApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* SmartBottleAppTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				48ED094ADC65BA351DC6F861 /* Pods */,
+				0248DFE565864E3082E478B5 /* Resources */,
+				487CAB2325517D91008B6CDB /* SmartBottleApp-Bridging-Header.h */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -294,7 +363,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						LastSwiftMigration = 1120;
+						LastSwiftMigration = 1210;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -342,6 +411,25 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				093FBDEC941944EBA52B1073 /* AntDesign.ttf in Resources */,
+				C5CC403CD2A84CCAB2DB68F0 /* Entypo.ttf in Resources */,
+				083A16C4F76747C8AE2A6CFA /* EvilIcons.ttf in Resources */,
+				DAA7AA97A21A406D91C4776B /* Feather.ttf in Resources */,
+				FC0B2F3028AD48729334E45F /* FontAwesome.ttf in Resources */,
+				1D2FBB655937422E88F0FF3E /* FontAwesome5_Brands.ttf in Resources */,
+				DEDDEEBEF01E41A3BB974EA2 /* FontAwesome5_Regular.ttf in Resources */,
+				6D4FBB0FD10448B4AB49BBF3 /* FontAwesome5_Solid.ttf in Resources */,
+				A714527771CE4B6192767B42 /* Fontisto.ttf in Resources */,
+				6CF723295DDB4C14BF6241BC /* Foundation.ttf in Resources */,
+				9C37F161F80345F6AF7A691E /* Ionicons.ttf in Resources */,
+				3CE77C1B4AFB49B380159550 /* MaterialCommunityIcons.ttf in Resources */,
+				A92C404412914E01B77C5E5E /* MaterialIcons.ttf in Resources */,
+				87E24E44A6814979BB70C57D /* Octicons.ttf in Resources */,
+				AF47913DF68B4CA7AA32E8BD /* Roboto_medium.ttf in Resources */,
+				98D54C40110B4518BD5140D2 /* Roboto.ttf in Resources */,
+				4701425508C34CEE82E9FEC1 /* rubicon-icon-font.ttf in Resources */,
+				A68E222B508E4F77864598AC /* SimpleLineIcons.ttf in Resources */,
+				DADC37B9F889416BACD70187 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -569,6 +657,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				487CAB2525517D91008B6CDB /* Bluetooth.swift in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -610,6 +699,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 41593D228DD82BC0A138D12D /* Pods-SmartBottleApp-SmartBottleAppTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -633,6 +723,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E56AB76B9996483A1139F974 /* Pods-SmartBottleApp-SmartBottleAppTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = SmartBottleAppTests/Info.plist;
@@ -666,6 +757,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SmartBottleApp;
+				SWIFT_OBJC_BRIDGING_HEADER = "SmartBottleApp-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -688,6 +780,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SmartBottleApp;
+				SWIFT_OBJC_BRIDGING_HEADER = "SmartBottleApp-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
